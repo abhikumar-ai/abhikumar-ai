@@ -1,45 +1,130 @@
-# 💫 Hi 👋, I'm Abhishek Kumar
-**A passionate Data Analytics || App developer **
+<!-- ======================= -->
+<!-- 🚀 ANIMATED GITHUB PROFILE README -->
+<!-- ======================= -->
 
-Email Me 👉 ✉️ **hj9873623514@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<h1 align="center">
+  Hi 👋, I'm Abhishek Kumar
+</h1>
 
-- 🔭 **I’m currently working on:** AI RESUME SCREENING MONITOR
-- 🌱 **I’m currently learning:** Machine Learning / Advance python
-- 👯 **I’m looking to collaborate on:** Live Project ML 
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** hj9873623514@gmail.com
-- 😄 **Pronouns:** Abhi Kumar
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+<h3 align="center">
+  🚀 AI & Data Analytics Developer | Machine Learning Enthusiast
+</h3>
 
-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abhikumar-ai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhii.1701) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhikumar-ai [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hj9873623514@gmail.com) 
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=abhikumar-ai&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=abhikumar-ai&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhikumar-ai&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abhikumar-ai&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+Developer;Machine+Learning+Explorer;Python+Programmer;Open+Source+Contributor;Building+Cool+AI+Projects+🔥" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=abhikumar-ai&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+## 🌟 About Me
+
+- 🔭 Currently working on **AI Resume Screening Monitor**
+- 🌱 Learning **Machine Learning & Advanced Python**
+- 👯 Looking to collaborate on **AI/ML Projects**
+- 💬 Ask me about **Python, AI, ML, Data Analytics**
+- 📫 Reach me at: **hi9873623514@gmail.com**
+- ⚡ Fun fact: **I Love Tech & Tech Loves Me 😎**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/abhikumar-ai">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hi9873623514@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,mysql,html,css,javascript,git,github,vscode,c,flutter"/>
+
+</p>
+
+---
+
+# 🧠 Animated Snake Contribution
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhikumar-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhikumar-ai&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</p>
+
+---
+
+# 🚀 Most Used Languages
+
+<p align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhikumar-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=abhikumar-ai&theme=algolia&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 🔥 Visitor Counter
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=abhikumar-ai&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+# 🎵 Coding Vibes
+
+<p align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxxxxxx&cover_image=true&theme=novatorem"/>
+</p>
+
+---
+
+# ✨ Quote Of The Day
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+<h3 align="center">
+💖 Thanks For Visiting My Profile 💖
+</h3>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+</p>
